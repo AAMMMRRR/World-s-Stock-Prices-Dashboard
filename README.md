@@ -76,8 +76,8 @@ Here are some key insights discovered through the dashboard:
 For questions or collaboration:  
 **Amr Elsayed**  
 Email: *[amre6470@gmail.com]*  
-LinkedIn: *[www.linkedin.com/in/amr-elsayed-ae24203]*
-Repository: *[https://github.com/AAMMMRRR/World-s-Stock-Prices-Dashboard]*
+LinkedIn: *[www.linkedin.com/in/amr-elsayed-ae24203]*  
+Repository: *[https://github.com/AAMMMRRR/World-s-Stock-Prices-Dashboard]* 
 
 ---
 
